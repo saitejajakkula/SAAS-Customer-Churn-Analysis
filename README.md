@@ -8,19 +8,19 @@ A synthetic SaaS customer health and churn analytics dataset extracted from a CE
 
 ## Executive KPI Overview
 
-![Executive KPI Overview](https://github.com/user-attachments/assets/6dcdef25-d318-4474-a3dd-6f286e756d1f)
+(https://github.com/user-attachments/assets/6dcdef25-d318-4474-a3dd-6f286e756d1f)
 
 ---
 
 ## Customer Insights & Strategic Recommendations
 
-![Insights and Recommendations](https://github.com/user-attachments/assets/b9866fec-e22f-44f8-bf2b-e7500fd92d8a)
+(https://github.com/user-attachments/assets/b9866fec-e22f-44f8-bf2b-e7500fd92d8a)
 
 ---
 
 ## Strategic Recommendation Cards
 
-![Recommendation Cards](https://github.com/user-attachments/assets/e4e7b94a-cbf2-4f24-94aa-70961c96546f)
+(https://github.com/user-attachments/assets/e4e7b94a-cbf2-4f24-94aa-70961c96546f)
 
 ---
 
@@ -28,19 +28,19 @@ A synthetic SaaS customer health and churn analytics dataset extracted from a CE
 
 ## Monthly Churn Rate Analysis
 
-![Churn Trend Analysis](https://github.com/user-attachments/assets/4af3e79b-5996-4e44-b20e-2c85176730c6)
+(https://github.com/user-attachments/assets/4af3e79b-5996-4e44-b20e-2c85176730c6)
 
 ---
 
 ## Active MRR by Cohort
 
-![MRR by Cohort](https://github.com/user-attachments/assets/4a720347-8ef2-4155-b7a9-3ad5e6163f1e)
+(https://github.com/user-attachments/assets/4a720347-8ef2-4155-b7a9-3ad5e6163f1e)
 
 ---
 
 ## Revenue Kept vs Revenue Lost
 
-![Revenue Retention](https://github.com/user-attachments/assets/0469ab9e-ff2a-47a4-a0bf-6d3dc882f3ca)
+(https://github.com/user-attachments/assets/0469ab9e-ff2a-47a4-a0bf-6d3dc882f3ca)
 
 ---
 
@@ -48,13 +48,13 @@ A synthetic SaaS customer health and churn analytics dataset extracted from a CE
 
 ## Subscription Plan Mix
 
-![Plan Mix](https://github.com/user-attachments/assets/fe43aa28-3e52-460f-9dc3-5d6ada069d5b)
+(https://github.com/user-attachments/assets/fe43aa28-3e52-460f-9dc3-5d6ada069d5b)
 
 ---
 
 ## Cohort Retention Matrix
 
-![Cohort Retention Matrix](https://github.com/user-attachments/assets/a2724b21-9d7c-462e-b2d5-e448c8a0ea9b)
+(https://github.com/user-attachments/assets/a2724b21-9d7c-462e-b2d5-e448c8a0ea9b)
 
 ---
 
