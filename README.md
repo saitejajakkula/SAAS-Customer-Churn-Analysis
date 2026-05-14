@@ -206,13 +206,14 @@ This project is suitable for:
 
 # 📷 Dashboard Preview
 
-Add dashboard screenshots here.
-
-Example:
-
-```bash
-/images/dashboard.png
-```
+<img width="1904" height="549" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/49ac3a81-5578-4f67-982a-169da207b10f" />
+<img width="1897" height="525" alt="Screenshot (247)" src="https://github.com/user-attachments/assets/ff5a38d7-3ff9-4141-9d2f-7cee46a04397" />
+<img width="1900" height="355" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/0bd1fce0-4798-4908-b9e6-bc7401d02b22" />
+<img width="1899" height="570" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/9cb58671-bc77-4474-bb37-31a15c905505" />
+<img width="1883" height="539" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/3d8ff84f-54d1-4e2c-b637-be0794e0c409" />
+<img width="1890" height="483" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/5cf2f321-1edc-493d-83c9-b0608a327650" />
+<img width="1899" height="531" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/c9d840a1-499a-419a-916d-aab673495927" />
+<img width="1899" height="845" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/bc5150bf-02b1-4ef4-ac0e-d73c766c9c9e" />
 
 ---
 
