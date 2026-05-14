@@ -249,8 +249,6 @@ The dashboard helps organizations improve customer retention, optimize revenue, 
 
 ---
 
----
-
 # 👨‍💼 About Me
 
 Hi, I’m Saiteja Jakkula 👋
