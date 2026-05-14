@@ -233,16 +233,6 @@ This project is suitable for:
 
 ---
 
-# 📬 Contact
-
-## Saiteja J
-
-* Business Analyst Enthusiast
-* Data Analytics & Dashboard Projects
-* Excel 
-
----
-
 # 📌 Conclusion
 
 This project showcases how customer data can be transformed into actionable business insights using dashboards and analytics.
@@ -256,3 +246,32 @@ It demonstrates practical skills in:
 * Strategic decision support
 
 The dashboard helps organizations improve customer retention, optimize revenue, and make informed business decisions.
+
+---
+
+---
+
+# 👨‍💼 About Me
+
+Hi, I’m Saiteja Jakkula 👋
+
+I’m an aspiring Business Analyst interested in:
+
+- Business Analytics
+- Market Research
+- Strategy Analysis
+- Data-Driven Decision Making
+
+I enjoy solving business problems using structured thinking, data analysis, and Human + AI workflows.
+
+---
+
+# 🔗 Connect With Me
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/jakkula-saiteja/
+
+---
+
+⭐ If you found this project useful, feel free to give this repository a star and connect with me on LinkedIn.
+
