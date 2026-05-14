@@ -239,7 +239,7 @@ This project is suitable for:
 
 * Business Analyst Enthusiast
 * Data Analytics & Dashboard Projects
-* Excel | Power BI | SQL | Python
+* Excel 
 
 ---
 
