@@ -1,183 +1,259 @@
-# Customer Health Dashboard Dataset
+# 📊 Customer Health Analytics Dashboard
 
-A synthetic SaaS customer health and churn analytics dataset extracted from a CEO-level customer health dashboard.
+## 📌 Project Overview
 
----
+This project analyzes customer subscription behavior, revenue trends, customer lifetime value, and churn patterns using a customer health dataset.
 
-# 📊 Dashboard Preview
+The dashboard is designed to simulate a real-world Business Analyst / Data Analyst use case where companies monitor:
 
-## Executive KPI Overview
+* Customer retention
+* Revenue growth
+* Churn behavior
+* Customer lifetime value (LTV)
+* Regional performance
+* Subscription plan performance
+* Acquisition channel effectiveness
 
-(https://github.com/user-attachments/assets/6dcdef25-d318-4474-a3dd-6f286e756d1f)
-
----
-
-## Customer Insights & Strategic Recommendations
-
-(https://github.com/user-attachments/assets/b9866fec-e22f-44f8-bf2b-e7500fd92d8a)
-
----
-
-## Strategic Recommendation Cards
-
-(https://github.com/user-attachments/assets/e4e7b94a-cbf2-4f24-94aa-70961c96546f)
+The goal of this project is to convert raw business data into actionable insights that support strategic decision-making.
 
 ---
 
-# 📈 Trend Analysis
+# 🎯 Business Objective
 
-## Monthly Churn Rate Analysis
+The objective of this project is to help stakeholders:
 
-(https://github.com/user-attachments/assets/4af3e79b-5996-4e44-b20e-2c85176730c6)
-
----
-
-## Active MRR by Cohort
-
-(https://github.com/user-attachments/assets/4a720347-8ef2-4155-b7a9-3ad5e6163f1e)
-
----
-
-## Revenue Kept vs Revenue Lost
-
-(https://github.com/user-attachments/assets/0469ab9e-ff2a-47a4-a0bf-6d3dc882f3ca)
+* Identify high churn areas
+* Understand customer retention trends
+* Monitor Monthly Recurring Revenue (MRR)
+* Evaluate customer acquisition effectiveness
+* Improve customer lifetime value
+* Compare performance across regions and plans
 
 ---
 
-# 📦 Segment Breakdown
+# 📂 Dataset Information
 
-## Subscription Plan Mix
+Dataset Name: **Customer Health Dataset**
 
-(https://github.com/user-attachments/assets/fe43aa28-3e52-460f-9dc3-5d6ada069d5b)
+The dataset contains customer subscription and revenue information.
 
----
+### Key Columns
 
-## Cohort Retention Matrix
-
-(https://github.com/user-attachments/assets/a2724b21-9d7c-462e-b2d5-e448c8a0ea9b)
-
----
-
-# 📁 Files Included
-
-- `customer_health_dataset.xlsx`
-- `customer_health_dataset.csv`
-
----
-
-# 🧾 Dataset Overview
-
-This dataset contains **5,000 customer records** across **24 monthly cohorts** from **Jan 2023 – Dec 2024**.
-
-The dataset is designed for:
-
-- Customer churn analysis
-- Cohort retention analysis
-- SaaS KPI dashboards
-- Revenue analytics
-- Customer Lifetime Value (LTV) modeling
-- Power BI / Tableau projects
-- SQL practice
-- Machine learning churn prediction
+| Column Name         | Description                            |
+| ------------------- | -------------------------------------- |
+| Customer_ID         | Unique customer identifier             |
+| Cohort_Month        | Customer joining month                 |
+| Plan                | Subscription plan selected by customer |
+| Monthly_Fee         | Monthly subscription fee               |
+| Tenure_Months       | Customer active duration               |
+| Churned             | Indicates whether customer churned     |
+| Churn_Date          | Customer churn date                    |
+| MRR                 | Monthly Recurring Revenue              |
+| LTV                 | Customer Lifetime Value                |
+| Acquisition_Channel | Source through which customer joined   |
+| Country             | Customer country                       |
+| Region              | Customer region                        |
 
 ---
 
-# 🧩 Columns Description
+# 🛠️ Tools & Technologies Used
 
-| Column Name | Description |
-|---|---|
-| Customer_ID | Unique customer identifier |
-| Cohort_Month | Signup cohort month |
-| Plan | Subscription plan (Basic / Pro / Premium) |
-| Monthly_Fee | Monthly subscription amount |
-| Tenure_Months | Customer lifetime in months |
-| Churned | 1 = churned, 0 = active |
-| Churn_Date | Date customer churned |
-| MRR | Monthly Recurring Revenue |
-| LTV | Customer Lifetime Value |
-| Acquisition_Channel | Customer acquisition source |
-| Country | Customer country |
-| Region | Geographic region |
+* Microsoft Excel
+* Power BI / Tableau / Excel Dashboard
+* Python (Optional for preprocessing)
+* Data Cleaning
+* KPI Analysis
+* Data Visualization
+* Business Analysis
 
 ---
 
-# 📊 Key Business Metrics
+# 📈 KPIs Tracked
 
-| Metric | Value |
-|---|---|
-| Total Customers | 5,000 |
-| Churn Rate | 39% |
-| Active Customers | 3,048 |
-| Lost Customers | 1,952 |
-| Active MRR | $77.7K |
-| Revenue Lost to Churn | $45.8K/mo |
-| Net Revenue Retention (NRR) | 62.9% |
+The dashboard tracks the following key business metrics:
 
----
-
-# 🎯 Business Insights
-
-- Basic plan customers show the highest churn risk
-- Referral and Organic channels retain better than Ads
-- Most churn happens within the first 3 months
-- Premium customers generate significantly higher LTV
-- Revenue retention is highly dependent on onboarding success
+* Total Customers
+* Active Customers
+* Churned Customers
+* Churn Rate
+* Total Revenue
+* Monthly Recurring Revenue (MRR)
+* Average Customer Lifetime Value (LTV)
+* Average Customer Tenure
+* Plan-wise Revenue
+* Region-wise Performance
+* Acquisition Channel Performance
 
 ---
 
-# 🚀 Use Cases
+# 📊 Dashboard Features
 
-## Business Intelligence
+## 1. Customer Overview
 
-- Executive dashboards
-- KPI monitoring
-- Revenue forecasting
-- Cohort analysis
+Provides a summary of:
 
-## Data Analytics
-
-- Retention analysis
-- Customer segmentation
-- Funnel analysis
-- Plan performance comparison
-
-## Machine Learning
-
-- Churn prediction
-- Customer risk scoring
-- Revenue prediction
-- LTV estimation
-
-## SQL Practice
-
-Example queries:
-
-- Monthly churn trends
-- Top acquisition channels
-- ARPU by plan
-- Cohort retention tables
+* Total customer count
+* Active vs churned customers
+* Revenue contribution
+* Customer retention trends
 
 ---
 
-# 🛠 Recommended Tools
+## 2. Revenue Analysis
 
-- Microsoft Excel
-- Power BI
-- Tableau
-- Python (Pandas, Matplotlib, Scikit-learn)
-- SQL
-- Looker Studio
+Analyzes:
 
----
-
-# 📌 Notes
-
-- This dataset is synthetic/demo data
-- Intended for analytics and dashboard projects
-- Suitable for portfolio and learning purposes
+* Monthly Recurring Revenue (MRR)
+* Revenue contribution by plan
+* Revenue distribution across regions
+* High-value customer segments
 
 ---
 
-# 📄 License
+## 3. Churn Analysis
 
-Free to use for educational and portfolio projects.
+Tracks:
+
+* Churn rate trends
+* Churn by subscription plan
+* Churn by region
+* Customer retention performance
+
+This helps businesses identify risk areas and improve customer retention strategies.
+
+---
+
+## 4. Customer Lifetime Value (LTV)
+
+Analyzes:
+
+* Average customer lifetime value
+* Long-term customer profitability
+* Relationship between tenure and LTV
+
+---
+
+## 5. Acquisition Channel Analysis
+
+Measures:
+
+* Customer acquisition sources
+* Revenue generated by each channel
+* Most effective acquisition channels
+
+---
+
+# 🔍 Key Business Insights
+
+## Customer Retention
+
+* Customers with longer tenure contribute significantly higher LTV.
+* Certain subscription plans show better retention performance.
+
+## Revenue Performance
+
+* Premium plans contribute higher revenue despite lower customer count.
+* MRR trends help monitor recurring business growth.
+
+## Churn Behavior
+
+* Higher churn in specific regions may indicate service or pricing issues.
+* Churn analysis helps businesses take proactive retention actions.
+
+## Acquisition Channels
+
+* Some acquisition channels generate higher-value customers.
+* Marketing effectiveness can be evaluated using LTV and churn comparison.
+
+---
+
+# 💡 Business Recommendations
+
+* Focus on improving retention for high-churn customer segments.
+* Invest more in acquisition channels with high LTV customers.
+* Optimize pricing strategies for low-performing plans.
+* Improve customer engagement during early tenure stages.
+* Monitor regional performance for targeted improvements.
+
+---
+
+# 🚀 Use Case
+
+This project demonstrates:
+
+* Business Analyst skills
+* KPI reporting
+* Dashboard storytelling
+* Customer analytics
+* Revenue analysis
+* Churn analysis
+* Data-driven decision making
+* Stakeholder reporting
+
+---
+
+# 👨‍💼 Ideal For
+
+This project is suitable for:
+
+* Data Analyst Portfolio
+* Business Analyst Portfolio
+* Power BI Projects
+* Tableau Projects
+* Excel Dashboard Projects
+* Fresher Portfolio Projects
+* Interview Presentations
+
+---
+
+# 📷 Dashboard Preview
+
+Add dashboard screenshots here.
+
+Example:
+
+```bash
+/images/dashboard.png
+```
+
+---
+
+# ⭐ Project Highlights
+
+✔ Real-world business scenario
+
+✔ KPI-focused dashboard
+
+✔ Customer churn analysis
+
+✔ Revenue and retention insights
+
+✔ Recruiter-friendly portfolio project
+
+✔ Business storytelling approach
+
+---
+
+# 📬 Contact
+
+## Saiteja J
+
+* Business Analyst Enthusiast
+* Data Analytics & Dashboard Projects
+* Excel | Power BI | SQL | Python
+
+---
+
+# 📌 Conclusion
+
+This project showcases how customer data can be transformed into actionable business insights using dashboards and analytics.
+
+It demonstrates practical skills in:
+
+* Data interpretation
+* KPI analysis
+* Dashboard creation
+* Business storytelling
+* Strategic decision support
+
+The dashboard helps organizations improve customer retention, optimize revenue, and make informed business decisions.
