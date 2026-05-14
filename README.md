@@ -56,11 +56,9 @@ The dataset contains customer subscription and revenue information.
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# 🛠️ Tools & skills Used
 
 * Microsoft Excel
-* Power BI / Tableau / Excel Dashboard
-* Python (Optional for preprocessing)
 * Data Cleaning
 * KPI Analysis
 * Data Visualization
